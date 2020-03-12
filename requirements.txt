@@ -1,0 +1,8 @@
+requests==2.20.0
+opencv-python==4.1.1.26
+pytesseract==0.3.0
+tensorflow<=1.14.0
+tensorflow-estimator<=1.14.0
+numpy==1.17.2
+Pillow==6.2.0
+Flask>=0.10.1

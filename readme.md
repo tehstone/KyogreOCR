@@ -1,0 +1,1 @@
+OCR Helper for Kyogre
